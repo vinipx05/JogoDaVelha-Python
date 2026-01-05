@@ -30,9 +30,3 @@ Projeto desenvolvido para **fins educacionais**, ideal para iniciantes em Python
 - Python 3
 
 ---
-
-##  Como executar o projeto
-
-1. Certifique-se de ter o **Python 3** instalado:
-   ```bash
-   python --version
